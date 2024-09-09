@@ -1,4 +1,4 @@
-﻿using System.Data;
+using System.Data;
 
 
 
@@ -85,6 +85,7 @@ while(passeddays != days)
 
 
 int amountofrot = 0;
+int amountofhealth = 0;
 
 Console.WriteLine("Final result");
 for (int i = 0; i < rows; i++)
@@ -96,12 +97,16 @@ for (int i = 0; i < rows; i++)
         {
             amountofrot++;
         }
+        else
+        {
+            amountofhealth++;
+        }
     }
     Console.WriteLine();
 }
 
-Console.WriteLine($"Amount of rotten oranges after 2 days is: {amountofrot}");
-
+Console.WriteLine($"Amount of rotten oranges after the days is: {amountofrot}");
+Console.WriteLine($"Amount of healthy oranges after the days is: {amountofhealth}");
 int[,] UpdateOranges(int[,] currmatrix)
 {
     int[,] newmatrix = (int[,])currmatrix.Clone();
