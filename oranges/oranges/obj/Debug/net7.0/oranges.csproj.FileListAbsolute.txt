@@ -1,0 +1,15 @@
+C:\Users\gameb\source\repos\oranges\oranges\bin\Debug\net7.0\oranges.exe
+C:\Users\gameb\source\repos\oranges\oranges\bin\Debug\net7.0\oranges.deps.json
+C:\Users\gameb\source\repos\oranges\oranges\bin\Debug\net7.0\oranges.runtimeconfig.json
+C:\Users\gameb\source\repos\oranges\oranges\bin\Debug\net7.0\oranges.dll
+C:\Users\gameb\source\repos\oranges\oranges\bin\Debug\net7.0\oranges.pdb
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.AssemblyInfoInputs.cache
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.AssemblyInfo.cs
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.dll
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\refint\oranges.dll
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.pdb
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\oranges.genruntimeconfig.cache
+C:\Users\gameb\source\repos\oranges\oranges\obj\Debug\net7.0\ref\oranges.dll
